@@ -14,7 +14,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Introduction to GitHub [💎](https://lab.github.com/public/introduction-to-github.pdf)
+## Introduction to GitHub [💎](https://github.com/Zi-Tao/github-slideshow/blob/main/introduction-to-github.pdf)
 
 Step 1: [Assign yourself](https://github.com/Zi-Tao/github-slideshow/issues/1)
 
